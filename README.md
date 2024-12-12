@@ -48,8 +48,8 @@ Create a `.env` file in the root of your project directory with the following co
 
 ### API Endpoints
 
-**Detailed API documentation can be found at:** ```http://127.0.0.1:8000/docs/```
-**Detailed API documentation can be found at:** ```http://127.0.0.1:8000/docs/```
+1. **Detailed API documentation can be found at:** ```http://127.0.0.1:8000/docs/```
+2. **Detailed event search or filtering documentation can be found at:** ```EventApp\api_v1\api_actions\views\events_filters.py```
 
 
 # Conclusion
