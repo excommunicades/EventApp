@@ -52,7 +52,7 @@ DEBUG=True
 ```
 If you want to send real emails (for example, using Gmail), add the following lines to your .env file:
 
-**In EventApp/settings file you need to comment 161 line and uncomment lines from 166 to 171**
+**In EventApp/settings file you need to comment 164 line and uncomment lines from 169 to 174**
 ```
 # Email settings
 
