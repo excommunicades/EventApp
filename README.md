@@ -72,7 +72,7 @@ HOST_APP_PASSWORD=your-email-app-password
 
 **To stop all running services, you can use:** ```docker-compose down```
 
-### API Endpoints
+# API Endpoints
 
 1. **Detailed API documentation can be found at:** ```http://0.0.0.0:8000/swagger/```
 2. **Download API schema can be found at:** ```http://0.0.0.0:8000/schema/```
@@ -80,7 +80,7 @@ HOST_APP_PASSWORD=your-email-app-password
 
 # Running Tests ♻️
 
-To run the test suite using pytest, you can use the test service defined in the docker-compose.yml file. This service will build the image and execute the tests in an isolated environment.
+You can use the test service defined in the docker-compose.yml file. This service will build the image and execute the tests in an isolated environment.
 
 **Execute the tests:** ```docker-compose run test```
 
